@@ -1,4 +1,4 @@
-tajvar, [1/11/2025 12:19 PM]
+
 JS Products Page
 
 A dynamic Products Page project built with Vanilla JavaScript, showcasing essential skills like DOM manipulation, event handling, and dynamic rendering of product data. This project is ideal for developers who want to practice JavaScript fundamentals and build user-friendly interfaces.
@@ -12,16 +12,16 @@ Features
 How to Run
  1. Clone this repository:
 
-tajvar, [1/11/2025 12:19 PM]
+
 git clone https://github.com/mhmd-hosseini/js-products-page.git
 
-tajvar, [1/11/2025 12:19 PM]
+
 2. Navigate to the project directory:
 
-tajvar, [1/11/2025 12:20 PM]
+
 cd js-products-page
 
-tajvar, [1/11/2025 12:20 PM]
+
 3. Open the index.html file in a browser to view the application.
 
 Technologies Used
